@@ -1,0 +1,21 @@
+{
+    "levels": [
+      {
+        "path": "src/test/resources/goal1test.txt",
+        "time": 180
+      }, 
+      {
+        "path": "src/test/resources/goal2test.txt", 
+        "time": 180
+      }, 
+      {
+        "path": "src/test/resources/goal3test.txt",
+        "time": 180
+      }, 
+      {
+        "path": "src/test/resources/goal4test.txt", 
+        "time": 180
+      }
+    ],
+    "lives": 3
+  }

@@ -1,0 +1,9 @@
+{
+    "levels": [
+      {
+        "path": "src/test/resources/collisiontest.txt",
+        "time": 180
+      }
+    ],
+    "lives": 3
+  }
